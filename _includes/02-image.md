@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Sample image](https://www.udemy.com/staticx/udemy/images/teaching/tools-assortment.png)
